@@ -7,3 +7,6 @@ There hasn't been anything to say these past few days.
 
 December 8th 2020 <br>
 I added a webhook! Whenever I update the repo, I have it post saying that I updated in a Discord Server! Isn't that cool?? Anyway, theres nothing else I've done today, or even since the 2nd. Heheh. Anyway, see you next time!
+
+December 9 2020-February 3 2021 <br>
+I finally deleted the notice that we are temporarily closed because I have tested positive for COVID-19. Nothing else to say, except that those puppies are adorable! Alright, goodbye!
